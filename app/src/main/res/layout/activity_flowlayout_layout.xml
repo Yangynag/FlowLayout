@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <flowlayout.yy.flowlayout.FlowLayout
+        android:id="@+id/fly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/style_flag"
+            android:text="@string/text_flag1" />
+
+        <TextView
+            style="@style/style_flag"
+            android:text="@string/text_flag2" />
+
+        <TextView
+            style="@style/style_flag"
+            android:text="@string/text_flag3" />
+
+        <TextView
+            style="@style/style_flag"
+            android:text="@string/text_flag4" />
+
+        <TextView
+            style="@style/style_flag"
+            android:text="@string/text_flag5" />
+
+        <TextView
+            style="@style/style_flag"
+            android:text="@string/text_flag6" />
+
+        <TextView
+            style="@style/style_flag"
+            android:text="@string/text_flag7" />
+
+        <TextView
+            style="@style/style_flag"
+            android:text="@string/text_flag8" />
+
+    </flowlayout.yy.flowlayout.FlowLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

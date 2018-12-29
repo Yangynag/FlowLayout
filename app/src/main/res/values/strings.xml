@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">flowlayout</string>
+    <string name="text_flag1">踢足球</string>
+    <string name="text_flag2">篮球</string>
+    <string name="text_flag3">排球</string>
+    <string name="text_flag4">乒乓球</string>
+    <string name="text_flag5">橄榄球</string>
+    <string name="text_flag6">羽毛球</string>
+    <string name="text_flag7">游泳</string>
+    <string name="text_flag8">跑步</string>
+</resources>
